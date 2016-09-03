@@ -112,7 +112,7 @@
             </trans-unit>
             <trans-unit id="31">
                 <source>The two values should be equal.</source>
-                <target>Isi keduanya harus sama.</target>
+                <target>Nilai keduanya harus sama.</target>
             </trans-unit>
             <trans-unit id="32">
                 <source>The file is too large. Allowed maximum size is {{ limit }} {{ suffix }}.</source>
